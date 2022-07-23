@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fitness-dashboard/static/css/main.01fc7095.css",
+    "main.css": "/fitness-dashboard/static/css/main.cbb02c9c.css",
     "main.js": "/fitness-dashboard/static/js/main.f08dca0e.js",
     "static/media/gym.svg": "/fitness-dashboard/static/media/gym.1fdbdd599e134cb3b0faf9f387292b83.svg",
     "static/media/Vector-3.svg": "/fitness-dashboard/static/media/Vector-3.4c631c5c4313924c1a821762b03e1a22.svg",
@@ -13,11 +13,11 @@
     "static/media/arrow.svg": "/fitness-dashboard/static/media/arrow.b7be0069572aae524698d87ce1a406a2.svg",
     "static/media/sub.svg": "/fitness-dashboard/static/media/sub.b3c54ff5944d47da3fdb7e2d7f7ab981.svg",
     "static/media/food.svg": "/fitness-dashboard/static/media/food.0678cf5158d6932087b3f0fbef47c8c9.svg",
-    "main.01fc7095.css.map": "/fitness-dashboard/static/css/main.01fc7095.css.map",
+    "main.cbb02c9c.css.map": "/fitness-dashboard/static/css/main.cbb02c9c.css.map",
     "main.f08dca0e.js.map": "/fitness-dashboard/static/js/main.f08dca0e.js.map"
   },
   "entrypoints": [
-    "static/css/main.01fc7095.css",
+    "static/css/main.cbb02c9c.css",
     "static/js/main.f08dca0e.js"
   ]
 }
