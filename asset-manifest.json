@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fitness-dashboard/static/css/main.01fc7095.css",
+    "main.js": "/fitness-dashboard/static/js/main.f08dca0e.js",
+    "static/media/gym.svg": "/fitness-dashboard/static/media/gym.1fdbdd599e134cb3b0faf9f387292b83.svg",
+    "static/media/Vector-3.svg": "/fitness-dashboard/static/media/Vector-3.4c631c5c4313924c1a821762b03e1a22.svg",
+    "static/media/walk.svg": "/fitness-dashboard/static/media/walk.e29ae12dd7d9cc1461b7f6c2bab91ae1.svg",
+    "static/media/bell.svg": "/fitness-dashboard/static/media/bell.9c74567a6791232e7c6fc5afcadc6ddc.svg",
+    "static/media/schedule.svg": "/fitness-dashboard/static/media/schedule.912b2ca698c0e96d193dd5b2a9c8c05e.svg",
+    "static/media/add.svg": "/fitness-dashboard/static/media/add.47761e25f9d33ed78f7ee50a988598e1.svg",
+    "index.html": "/fitness-dashboard/index.html",
+    "static/media/exclamation.svg": "/fitness-dashboard/static/media/exclamation.668c4770c55ef0e9e6eed0f885bd6e1b.svg",
+    "static/media/arrow.svg": "/fitness-dashboard/static/media/arrow.b7be0069572aae524698d87ce1a406a2.svg",
+    "static/media/sub.svg": "/fitness-dashboard/static/media/sub.b3c54ff5944d47da3fdb7e2d7f7ab981.svg",
+    "static/media/food.svg": "/fitness-dashboard/static/media/food.0678cf5158d6932087b3f0fbef47c8c9.svg",
+    "main.01fc7095.css.map": "/fitness-dashboard/static/css/main.01fc7095.css.map",
+    "main.f08dca0e.js.map": "/fitness-dashboard/static/js/main.f08dca0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01fc7095.css",
+    "static/js/main.f08dca0e.js"
+  ]
+}
